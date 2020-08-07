@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1595570933 source:e:\c++pratice\asiignment\assignment\mainfile.cpp
+	<iostream>
+	"mainfile.h"
+	"string.h"
+
+1595570795 e:\c++pratice\asiignment\assignment\mainfile.h
+
+1595571161 source:e:\c++pratice\asiignment\assignment\main.cpp
+	<iostream>
+	"course.h"
+	"string.h"
+
+1595512922 source:e:\c++pratice\asiignment\assignment\person.cpp
+	<iostream>
+	"person.h"
+	<conio.h>
+	"string.h"
+
+1595319578 e:\c++pratice\asiignment\assignment\person.h
+	"mainfile.h"
+
+1595513146 source:e:\c++pratice\asiignment\assignment\student.cpp
+	<iostream>
+	"student.h"
+	<conio.h>
+	"string.h"
+
+1595398634 e:\c++pratice\asiignment\assignment\student.h
+	"person.h"
+
+1595570183 source:e:\c++pratice\asiignment\assignment\teacher.cpp
+	<iostream>
+	"teacher.h"
+	<conio.h>
+	"string.h"
+
+1595512583 e:\c++pratice\asiignment\assignment\teacher.h
+	"student.h"
+
+1595512583 source:e:\c++pratice\asiignment\assignment\course.cpp
+	<iostream>
+	"course.h"
+	<conio.h>
+	"string.h"
+
+1595571161 e:\c++pratice\asiignment\assignment\course.h
+	"teacher.h"
+
+1595924638 source:c:\users\dell\desktop\asiignment\asiignment\assignment\course.cpp
+	<iostream>
+	"course.h"
+	<conio.h>
+	"string.h"
+
+1595924638 c:\users\dell\desktop\asiignment\asiignment\assignment\course.h
+	"teacher.h"
+
+1595512583 c:\users\dell\desktop\asiignment\asiignment\assignment\teacher.h
+	"student.h"
+
+1595839644 c:\users\dell\desktop\asiignment\asiignment\assignment\student.h
+	"person.h"
+
+1595319578 c:\users\dell\desktop\asiignment\asiignment\assignment\person.h
+	"mainfile.h"
+
+1595570795 c:\users\dell\desktop\asiignment\asiignment\assignment\mainfile.h
+
+1595924534 source:c:\users\dell\desktop\asiignment\asiignment\assignment\main.cpp
+	<iostream>
+	"course.h"
+	"string.h"
+
+1595570933 source:c:\users\dell\desktop\asiignment\asiignment\assignment\mainfile.cpp
+	<iostream>
+	"mainfile.h"
+	"string.h"
+
+1595512922 source:c:\users\dell\desktop\asiignment\asiignment\assignment\person.cpp
+	<iostream>
+	"person.h"
+	<conio.h>
+	"string.h"
+
+1595840207 source:c:\users\dell\desktop\asiignment\asiignment\assignment\student.cpp
+	<iostream>
+	"student.h"
+	<conio.h>
+	"string.h"
+
+1595570183 source:c:\users\dell\desktop\asiignment\asiignment\assignment\teacher.cpp
+	<iostream>
+	"teacher.h"
+	<conio.h>
+	"string.h"
+
